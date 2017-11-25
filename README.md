@@ -2,7 +2,8 @@
 
 My name is Rajashree Madan.
 
-You can follow me on GitHub - _[rajashreemadan](https://github.com/rajashreemadan)_
+Find me on GitHub - _[rajashreemadan](https://github.com/rajashreemadan)_
+
 
 ## Welcome to GitHub Pages
 
